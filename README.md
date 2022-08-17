@@ -1,4 +1,4 @@
-# itcs_assessment
+# PySpark On Docker
 
 #### 1 - Dockerfile used to build pyspark image
         docker build -t pyspark --no-cache .
